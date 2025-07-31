@@ -1,2 +1,6 @@
 # Accurate-Cyber-Defense-Bot-Terminal
- Accurate-Cyber-Defense-Bot-Terminal is a robust, high-performance terminal-based cybersecurity defense tool engineered using the Rust programming language.
+
+ Accurate-Cyber-Defense-Bot-Terminal is a powerful and efficient tool purpose-built for security teams, system administrators, researchers, and developers seeking a responsive, 
+ reliable, and programmable way to protect systems through the command-line. By combining Rust’s strengths with real-time messaging via Telegram, 
+ it offers a seamless and secure channel for monitoring and response across diverse environments—from data centers to remote edge devices.
+
